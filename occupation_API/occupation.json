@@ -1,0 +1,89 @@
+{
+  "occupations": [
+    {
+      "name": "Graphic Designer",
+      "description": "Graphic designers create visual concepts to communicate ideas that inspire, inform, and captivate consumers.",
+      "fields": [
+        "Web Design",
+        "Logo Design",
+        "Print Design",
+        "Motion Graphics",
+        "Brand Identity Design",
+        "Marketing & Advertising Design",
+        "UI / UX Designer",
+        "Graphic illustration",
+        "Data Visualization & Infographic Design"
+      ],
+      "educationRequirements": "Bachelor's degree in Graphic Design or related field",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Adobe's Creative Apps",
+        "Procreate",
+        "Typography",
+        "Layout Design",
+        "Color Theory"
+      ],
+      "salaryRange": "$40,000 - $80,000 per year",
+      "jobOutlook": "Stable demand with a growing need for digital media design.",
+      "jobTitles": [
+        "Web Designer",
+        "Brand Identity Specialist",
+        "Art Director"
+      ],
+      "licensingCertification": false
+    },
+    {
+      "name": "Software Engineer",
+      "description": "Software engineers design, develop, test, and maintain software applications.",
+      "fields": [
+        "Frontend Development",
+        "Backend Development",
+        "Mobile App Development",
+        "Data Science"
+      ],
+      "educationRequirements": "Bachelor's degree in Computer Science or related field",
+      "skills": [
+        "Programming languages (e.g., Java, Python, JavaScript)",
+        "Software development methodologies",
+        "Problem-solving",
+        "Version control (e.g., Git)"
+      ],
+      "salaryRange": "$70,000 - $120,000 per year",
+      "jobOutlook": "High demand due to the growth of technology and digitalization.",
+      "jobTitles": [
+        "Full Stack Developer",
+        "Mobile App Developer",
+        "Data Engineer"
+      ],
+      "licensingCertification": false
+    },
+    {
+      "name": "Doctor",
+      "description": "Doctors diagnose and treat illnesses, injuries, and medical conditions.",
+      "fields": [
+        "Pediatrics",
+        "Cardiology",
+        "Oncology",
+        "Neurology",
+        "Family Medicine"
+      ],
+      "educationRequirements": "Medical degree (MD or DO) and completion of residency",
+      "skills": [
+        "Medical knowledge",
+        "Diagnosis and treatment",
+        "Empathy and communication",
+        "Problem-solving"
+      ],
+      "salaryRange": "Varies by specialty, typically $150,000 - $400,000+ per year",
+      "jobOutlook": "Growing demand for healthcare services and an aging population.",
+      "jobTitles": [
+        "Pediatrician",
+        "Cardiologist",
+        "Oncologist"
+      ],
+      "licensingCertification": true
+    }
+
+  ]
+}
