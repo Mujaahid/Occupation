@@ -1,8 +1,7 @@
 {
   "occupations": [
-    {
+        {
       "name": "Graphic Designer",
-      "description": "Graphic designers create visual concepts to communicate ideas that inspire, inform, and captivate consumers.",
       "fields": [
         "Web Design",
         "Logo Design",
@@ -14,7 +13,6 @@
         "Graphic illustration",
         "Data Visualization & Infographic Design"
       ],
-      "educationRequirements": "Bachelor's degree in Graphic Design or related field",
       "skills": [
         "Adobe Photoshop",
         "Adobe Illustrator",
@@ -24,14 +22,11 @@
         "Layout Design",
         "Color Theory"
       ],
-      "salaryRange": "$40,000 - $80,000 per year",
-      "jobOutlook": "Stable demand with a growing need for digital media design.",
       "jobTitles": [
         "Web Designer",
         "Brand Identity Specialist",
         "Art Director"
-      ],
-      "licensingCertification": false
+      ]
     },
     {
       "name": "Software Engineer",
