@@ -41,7 +41,6 @@
         "Mobile App Development",
         "Data Science"
       ],
-      "educationRequirements": "Bachelor's degree in Computer Science or related field",
       "skills": [
         "HTML",
         "Css",
@@ -53,14 +52,11 @@
         "React",
         "Problem-solving"
       ],
-      "salaryRange": "$70,000 - $120,000 per year",
-      "jobOutlook": "High demand due to the growth of technology and digitalization.",
       "jobTitles": [
         "Full Stack Developer",
         "Mobile App Developer",
         "Data Engineer"
       ],
-      "licensingCertification": false
     },
     {
       "name": "Doctor",
